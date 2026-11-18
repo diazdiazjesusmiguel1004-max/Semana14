@@ -12,7 +12,7 @@ export default function Home() {
       <Head>
         <title>Mi Sitio Optimizado - Home</title>
         <meta name="description" content="Aprende sobre optimización SEO y rendimiento en Next.js." />
-        <meta name="google-site-verification" content=<meta name="google-site-verification" content="-ABCj1VGOq4YNa8Q-77PQbVjeW8egOr9uvV2SClOfss" /> />
+        <meta name="google-site-verification" content="-ABCj1VGOq4YNa8Q-77PQbVjeW8egOr9uvV2SClOfss" />
       </Head>
 
       <main style={{ padding: "2rem", fontFamily: "sans-serif" }}>
