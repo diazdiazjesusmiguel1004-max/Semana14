@@ -1,5 +1,5 @@
 // Archivo: /pages/api/sitemap.js
-const BASE_URL = "https://semana14-1pua.onrender.com";
+const BASE_URL = "https://semana14-lpua.onrender.com";
 export default async function handler(req, res) {
   // Las páginas requeridas para tu sitemap
   const urls = ["/", "/blog", "/contacto"];
