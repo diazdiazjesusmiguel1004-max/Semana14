@@ -1,4 +1,4 @@
-const BASE_URL = "https://semana14-1pua.onrender.com";
+const BASE_URL = "https://semana14-lpua.onrender.com";
 
 function generateSiteMap() {
   const urls = ["/", "/blog", "/contacto"];
